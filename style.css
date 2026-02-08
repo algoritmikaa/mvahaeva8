@@ -1,0 +1,40 @@
+body {
+    font-family: cursive;
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(64, 10, 114);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+main {
+    background-color: rgb(64, 10, 114);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+footer {
+    background-color: rgb(64, 10, 114);
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+h1:hover {
+    color: rgb(64, 10, 114);
+    background-color: white;
+}
+
+main:hover {
+    color: rgb(64, 10, 114);
+    background-color: white;
+}
+
+footer:hover {
+    color: rgb(64, 10, 114);
+    background-color: white;
+}
